@@ -1,0 +1,22 @@
+{
+  "name": "inline-with-npm-module",
+  "version": "1.0.0",
+  "description": "## Issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colinkahn/inline-with-npm-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colinkahn/inline-with-npm-module/issues"
+  },
+  "homepage": "https://github.com/colinkahn/inline-with-npm-module#readme",
+  "dependencies": {
+    "shadow-cljs": "^2.8.42"
+  }
+}
